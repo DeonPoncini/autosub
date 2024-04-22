@@ -1,0 +1,5 @@
+COMPANION_AWS_BUCKET=autosub-videoupload
+COMPANION_AWS_REGION=us-east-1
+COMPANION_AWS_KEY=<key here>
+COMPANION_AWS_SECRET=<key here>
+PORT=8080
